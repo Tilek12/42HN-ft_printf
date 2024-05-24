@@ -22,12 +22,12 @@ int ft_printf(const char *, ...);
 ```
 
 :eight_spoked_asterisk: **Requirements:**
-- Don’t implement the buffer management of the original printf().
-- Your function has to handle the following conversions: cspdiuxX%
-- Your function will be compared against the original printf().
-- You must use the command ar to create your library.\
-  Using the libtool command is forbidden.
-- Your libftprintf.a has to be created at the root of your repository
+- The buffer management of the original printf() is not implemented.
+- Function handles the following conversions: cspdiuxX%
+- Function compared against the original printf().
+- The command ar is used to create your library.\
+The libtool command is not used.
+- libftprintf.a is created at the root of the repository
 
 :eight_spoked_asterisk: **Conversions:**
 - %c Prints a single character.
