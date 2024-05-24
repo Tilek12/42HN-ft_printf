@@ -16,6 +16,7 @@ Reproduction of a popular and versatile C function: printf().
 **Libft authorized**| Yes
 **Description**| Write a library that contains ft_printf(), a function that will mimic the original printf()
 
+
 The prototype of ft_printf() is:
 ```
 int ft_printf(const char *, ...);
