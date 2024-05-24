@@ -6,7 +6,7 @@
 
 :green_circle: **Mandatory Part**
 
-Repproduction of a popular and versatile C function: printf(). 
+Reproduction of a popular and versatile C function: printf(). 
 
 **Program name**| libftprintf.a
 :---|:---
