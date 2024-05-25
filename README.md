@@ -2,9 +2,9 @@
 
 ## Project - ft_printf :printer:
 
-:white_check_mark: **100/100**
+### :white_check_mark: **100/100**
 
-:green_circle: **Mandatory Part**
+### :green_circle: **Mandatory Part**
 
 Reproduction of a popular and versatile C function: printf(). 
 
@@ -22,7 +22,7 @@ The prototype of ft_printf() is:
 int ft_printf(const char *, ...);
 ```
 
-:eight_spoked_asterisk: **Requirements:**
+### :eight_spoked_asterisk: **Requirements:**
 - The buffer management of the original printf() is not implemented.
 - Function handles the following conversions: cspdiuxX%
 - Function compared against the original printf().
@@ -30,13 +30,13 @@ int ft_printf(const char *, ...);
 The libtool command is not used.
 - libftprintf.a is created at the root of the repository
 
-:eight_spoked_asterisk: **Conversions:**
-- %c Prints a single character.
-- %s Prints a string (as defined by the common C convention).
-- %p The void * pointer argument has to be printed in hexadecimal format.
-- %d Prints a decimal (base 10) number.
-- %i Prints an integer in base 10.
-- %u Prints an unsigned decimal (base 10) number.
-- %x Prints a number in hexadecimal (base 16) lowercase format.
-- %X Prints a number in hexadecimal (base 16) uppercase format.
-- %% Prints a percent sign.
+### :eight_spoked_asterisk: **Conversions:**
+- **%c** Prints a single character.
+- **%s** Prints a string (as defined by the common C convention).
+- **%p** The void * pointer argument has to be printed in hexadecimal format.
+- **%d** Prints a decimal (base 10) number.
+- **%i** Prints an integer in base 10.
+- **%u** Prints an unsigned decimal (base 10) number.
+- **%x** Prints a number in hexadecimal (base 16) lowercase format.
+- **%X** Prints a number in hexadecimal (base 16) uppercase format.
+- **%%** Prints a percent sign.
