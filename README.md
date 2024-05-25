@@ -1,8 +1,18 @@
 # 42Heilbronn :desktop_computer: :de:
 
-## Project - ft_printf :printer:
+<p align="center">
+  <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png">
+</p>
 
-### :white_check_mark: **100/100**
+<h1 align="center">
+ Project - ft_printf :printer:
+</h1>
+
+<h2 align="center">
+ :white_check_mark: 100/100
+</h2>
+
+### :white_check_mark: 100/100
 
 ### :green_circle: **Mandatory Part**
 
