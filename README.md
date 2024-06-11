@@ -1,4 +1,4 @@
-# 42Heilbronn :desktop_computer: :de:
+# :desktop_computer: 42Heilbronn :de:
 
 <p align="center">
   <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/ft_printfe.png">
@@ -12,9 +12,9 @@
  :white_check_mark: 100/100
 </h2>
 
-### :white_check_mark: 100/100
+## :clipboard: Project info: [subject](https://github.com/Tilek12/42HN-libft/blob/master/.git_docs_libft/en.subject_libft.pdf)
 
-### :green_circle: **Mandatory Part**
+## :green_circle: **Mandatory Part**
 
 Reproduction of a popular and versatile C function: printf(). 
 
